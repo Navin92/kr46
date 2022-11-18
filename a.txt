@@ -1,1 +1,10 @@
-i am kisshore
+<HTMLDOC html>
+<html>
+<head>
+<h1 style="font-size:60;">You Recive All Website Links and details</h1>
+</head>
+<body>
+<p style="color:blue;">Instagram
+Instagram <br><h1 style="font-size:100;">(from Facebook) allows you to create and share your photos, stories, and videos with the friends and followers you care about. </p>
+<img src="insta.JPG">
+
